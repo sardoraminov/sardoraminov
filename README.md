@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-#### Main account is here: ![@dasturchioka](https://github.com/dasturchioka)
+#### Main account is here: <a href="https://github.com/dasturchioka">@dasturchioka</a>
 
 Need to follow! 👀
